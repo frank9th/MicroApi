@@ -1,0 +1,10 @@
+Requirement already satisfied: pymongo[gssapi,snappy,srv,tls] in c:\djangomicroservice\ve\lib\site-packages (3.10.1)
+Collecting winkerberos>=0.5.0; extra == "gssapi" (from pymongo[gssapi,snappy,srv,tls])
+  Downloading https://files.pythonhosted.org/packages/ca/cb/eb105f9f455f6bc25eb04412b1c0e5b9b51be0714882a48044b0f15543c1/winkerberos-0.7.0-cp38-cp38-win32.whl
+Collecting python-snappy; extra == "snappy" (from pymongo[gssapi,snappy,srv,tls])
+  Downloading https://files.pythonhosted.org/packages/45/35/65d9f8cc537129894b4b32647d80212d1fa342877581c5b8a69872cea8be/python-snappy-0.5.4.tar.gz
+Collecting dnspython<2.0.0,>=1.16.0; extra == "srv" (from pymongo[gssapi,snappy,srv,tls])
+  Downloading https://files.pythonhosted.org/packages/ec/d3/3aa0e7213ef72b8585747aa0e271a9523e713813b9a20177ebe1e939deb0/dnspython-1.16.0-py2.py3-none-any.whl (188kB)
+Installing collected packages: winkerberos, python-snappy, dnspython
+  Running setup.py install for python-snappy: started
+    Running setup.py install for python-snappy: finished with status 'error'
