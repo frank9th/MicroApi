@@ -12,6 +12,8 @@ router.register("mbabudget", views.MDABudgetView)
 router.register("economicrevenue", views.EconomicRevenueView)
 router.register("economicexpenditure", views.EconomicExpenditureView )
 router.register(" governmentfunctions", views.GovernmentFunctionsView)
+router.register("expediture", views.store_economic_expenditure_values )
+router.register("mda", views.store_mda_budget_values )
 
 
 urlpatterns = [
