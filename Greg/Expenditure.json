@@ -1,0 +1,2226 @@
+[
+    {
+        "name": "SALARY",
+        "budget": 2454037551812.8213,
+        "allocation": 99247338526.06,
+        "total_allocation": 637073608447.56,
+        "balance": 1816963943365.2612,
+        "month": "APR"
+    },
+    {
+        "name": "NON REGULAR ALLOWANCES",
+        "budget": 1055706358677.2299,
+        "allocation": 72146957507.83,
+        "total_allocation": 266768757237.53,
+        "balance": 788937601439.7,
+        "month": "APR"
+    },
+    {
+        "name": "FOREIGN SERVICE",
+        "budget": 57134590433.39,
+        "allocation": 2374126039.61,
+        "total_allocation": 4973503115.05,
+        "balance": 52161087318.34,
+        "month": "APR"
+    },
+    {
+        "name": "ENTITTLEMENTS OF FORMER PRESIDENTS/HEADS OF STATES AND VICE PRESIDENTS/CHIEF OF GENERAL STAFF",
+        "budget": 2300000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 2300000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "BENEFITS OF RETIRED HEADS OF SERVICE AND PERMANENT SECRETARIES",
+        "budget": 4502491809.0,
+        "allocation": 0.0,
+        "total_allocation": 680190941.0,
+        "balance": 3822300868.0,
+        "month": "APR"
+    },
+    {
+        "name": "SEVERANCE BENEFIT TO RETIRED HEADS OF GOVERNMENT AGENCIES/PARASTATALS",
+        "budget": 1000000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1000000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "NHIS",
+        "budget": 82700116704.0481,
+        "allocation": 2377485573.54,
+        "total_allocation": 13367699271.11,
+        "balance": 69332417432.9381,
+        "month": "APR"
+    },
+    {
+        "name": "CONTRIBUTORY PENSION - EMPLOYER'S CONTRIBUTION",
+        "budget": 105079296999.7586,
+        "allocation": 6007713502.84,
+        "total_allocation": 28316335919.64,
+        "balance": 76762961080.1186,
+        "month": "APR"
+    },
+    {
+        "name": "GROUP LIFE INSURANCE FOR ALL MDA (INCLUDING DSS/INSURANCE OF SENSITIVE ASSETS/CORPERS PLUS ADMINISTR",
+        "budget": 15000000000.0,
+        "allocation": 4642485146.0,
+        "total_allocation": 10330437064.79,
+        "balance": 4669562935.21,
+        "month": "APR"
+    },
+    {
+        "name": "PAYMENT INTO REDEMPTION FUND (5% OF TOTAL PERSONNEL COST)",
+        "budget": 89548062654.0,
+        "allocation": 0.0,
+        "total_allocation": 200000.0,
+        "balance": 89547862654.0,
+        "month": "APR"
+    },
+    {
+        "name": "NHIS (MILITARY RETIREES)",
+        "budget": 11737075338.0,
+        "allocation": -2881.0,
+        "total_allocation": -2881.0,
+        "balance": 11737078219.0,
+        "month": "APR"
+    },
+    {
+        "name": "EMPLOYEE COMPENSATION ACT - EMPLOYEES COMPENSATION FUND",
+        "budget": 3000000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 3000000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "GRATUITY",
+        "budget": 7356347737.0,
+        "allocation": 1195620134.59,
+        "total_allocation": 1266878820.52,
+        "balance": 6089468916.48,
+        "month": "APR"
+    },
+    {
+        "name": "PENSION",
+        "budget": 366601176066.0,
+        "allocation": 32051244647.83,
+        "total_allocation": 91615211125.26,
+        "balance": 274985964940.74,
+        "month": "APR"
+    },
+    {
+        "name": "DEATH BENEFITS",
+        "budget": 28191554357.0,
+        "allocation": 3834629529.75,
+        "total_allocation": 5767694059.5,
+        "balance": 22423860297.5,
+        "month": "APR"
+    },
+    {
+        "name": "GRATUITY",
+        "budget": 1486000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1486000.0,
+        "month": "APR"
+    },
+    {
+        "name": "DEATH BENEFITS",
+        "budget": 15005135.2,
+        "allocation": 0.0,
+        "total_allocation": 100000.0,
+        "balance": 14905135.2,
+        "month": "APR"
+    },
+    {
+        "name": "LOCAL TRAVEL & TRANSPORT: TRAINING",
+        "budget": 6915462039.45,
+        "allocation": 162483425.14,
+        "total_allocation": 907300779.55,
+        "balance": 6008161259.9,
+        "month": "APR"
+    },
+    {
+        "name": "LOCAL TRAVEL & TRANSPORT: OTHERS",
+        "budget": 16444680472.91,
+        "allocation": 1053161063.84,
+        "total_allocation": 4456015931.88,
+        "balance": 11988664541.03,
+        "month": "APR"
+    },
+    {
+        "name": "INTERNATIONAL TRAVEL & TRANSPORT: TRAINING",
+        "budget": 5825802340.18,
+        "allocation": 129998713.73,
+        "total_allocation": 976342388.05,
+        "balance": 4849459952.13,
+        "month": "APR"
+    },
+    {
+        "name": "INTERNATIONAL TRAVEL & TRANSPORT: OTHERS",
+        "budget": 8607971495.64,
+        "allocation": 244111994.3,
+        "total_allocation": 998804723.42,
+        "balance": 7609166772.22,
+        "month": "APR"
+    },
+    {
+        "name": "NIPSS/ NATIONAL DEFENCE COLLEGE PARTICIPANTS TOUR ALLOWANCE",
+        "budget": 1020516633.0,
+        "allocation": 10190000.0,
+        "total_allocation": 510170000.0,
+        "balance": 510346633.0,
+        "month": "APR"
+    },
+    {
+        "name": "ELECTRICITY CHARGES",
+        "budget": 11378077832.47,
+        "allocation": 467413536.32,
+        "total_allocation": 1416055033.54,
+        "balance": 9962022798.93,
+        "month": "APR"
+    },
+    {
+        "name": "TELEPHONE CHARGES",
+        "budget": 1012226761.79,
+        "allocation": 7751703.79,
+        "total_allocation": 50656938.81,
+        "balance": 961569822.98,
+        "month": "APR"
+    },
+    {
+        "name": "INTERNET ACCESS CHARGES",
+        "budget": 1330661786.08,
+        "allocation": 27187723.28,
+        "total_allocation": 81175344.91,
+        "balance": 1249486441.17,
+        "month": "APR"
+    },
+    {
+        "name": "SATELLITE BROADCASTING ACCESS CHARGES",
+        "budget": 719382994.39,
+        "allocation": 59015261.99,
+        "total_allocation": 93482601.9,
+        "balance": 625900392.49,
+        "month": "APR"
+    },
+    {
+        "name": "WATER RATES",
+        "budget": 1529843627.57,
+        "allocation": 55844941.21,
+        "total_allocation": 105625210.67,
+        "balance": 1424218416.9,
+        "month": "APR"
+    },
+    {
+        "name": "SEWERAGE CHARGES",
+        "budget": 978086697.55,
+        "allocation": 20396761.23,
+        "total_allocation": 47013210.53,
+        "balance": 931073487.02,
+        "month": "APR"
+    },
+    {
+        "name": "LEASED COMMUNICATION LINES(S)",
+        "budget": 44842780.62,
+        "allocation": 1006757.72,
+        "total_allocation": 3260586.11,
+        "balance": 41582194.51,
+        "month": "APR"
+    },
+    {
+        "name": "INTERACTIVE LEARNING NETWORK (ILN)",
+        "budget": 17916634.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 17916634.0,
+        "month": "APR"
+    },
+    {
+        "name": "SOFTWARE CHARGES / LICENCE RENEWAL",
+        "budget": 53959977.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 53959977.0,
+        "month": "APR"
+    },
+    {
+        "name": "OFFICE STATIONERIES / COMPUTER CONSUMABLES",
+        "budget": 7553900386.62,
+        "allocation": 448343936.64,
+        "total_allocation": 1328507617.16,
+        "balance": 6225392769.46,
+        "month": "APR"
+    },
+    {
+        "name": "BOOKS",
+        "budget": 498006743.26,
+        "allocation": 4809173.61,
+        "total_allocation": 58803208.67,
+        "balance": 439203534.59,
+        "month": "APR"
+    },
+    {
+        "name": "NEWSPAPERS",
+        "budget": 527462985.85,
+        "allocation": 6892757.69,
+        "total_allocation": 28425862.18,
+        "balance": 499037123.67,
+        "month": "APR"
+    },
+    {
+        "name": "MAGAZINES & PERIODICALS",
+        "budget": 483069629.85,
+        "allocation": 13752282.99,
+        "total_allocation": 36432873.37,
+        "balance": 446636756.48,
+        "month": "APR"
+    },
+    {
+        "name": "PRINTING OF NON SECURITY DOCUMENTS",
+        "budget": 1864637747.66,
+        "allocation": 32307883.39,
+        "total_allocation": 294352640.54,
+        "balance": 1570285107.12,
+        "month": "APR"
+    },
+    {
+        "name": "PRINTING OF SECURITY DOCUMENTS",
+        "budget": 1063776517.01,
+        "allocation": 16050712.93,
+        "total_allocation": 177399991.68,
+        "balance": 886376525.33,
+        "month": "APR"
+    },
+    {
+        "name": "DRUGS & MEDICAL SUPPLIES",
+        "budget": 2532375380.6,
+        "allocation": 91538846.54,
+        "total_allocation": 306611837.49,
+        "balance": 2225763543.11,
+        "month": "APR"
+    },
+    {
+        "name": "FIELD & CAMPING MATERIALS SUPPLIES",
+        "budget": 602634329.28,
+        "allocation": 18591210.96,
+        "total_allocation": 71560383.64,
+        "balance": 531073945.64,
+        "month": "APR"
+    },
+    {
+        "name": "UNIFORMS & OTHER CLOTHING",
+        "budget": 4718615907.06,
+        "allocation": 82703676.84,
+        "total_allocation": 173328648.81,
+        "balance": 4545287258.25,
+        "month": "APR"
+    },
+    {
+        "name": "TEACHING AIDS / INSTRUCTION MATERIALS",
+        "budget": 875688944.95,
+        "allocation": 63301901.24,
+        "total_allocation": 125252868.75,
+        "balance": 750436076.2,
+        "month": "APR"
+    },
+    {
+        "name": "FOOD STUFF / CATERING MATERIALS SUPPLIES",
+        "budget": 16813880198.58,
+        "allocation": 1077981490.19,
+        "total_allocation": 3518175434.55,
+        "balance": 13295704764.03,
+        "month": "APR"
+    },
+    {
+        "name": "PRODUCTION, PUBLICATION, & CIRCULATION OF ANNUAL CONSOLIDATED FINANCIAL STATEMENTS & ACCOUNTING MANU",
+        "budget": 5294795.71,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 5294795.71,
+        "month": "APR"
+    },
+    {
+        "name": "PRODUCTION OF CONSOLIDATED REPORTS FOR NATIONAL ASSEMBLY PUBLIC ACCOUNTS COMMITTEE",
+        "budget": 2477525.9,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 2477525.9,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF MOTOR VEHICLE / TRANSPORT EQUIPMENT",
+        "budget": 4762806221.76,
+        "allocation": 385757817.43,
+        "total_allocation": 884738252.54,
+        "balance": 3878067969.22,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF OFFICE FURNITURE",
+        "budget": 1696645841.62,
+        "allocation": 47794031.59,
+        "total_allocation": 116403136.44,
+        "balance": 1580242705.18,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF OFFICE BUILDING / RESIDENTIAL QTRS",
+        "budget": 6562828275.17,
+        "allocation": 323489907.84,
+        "total_allocation": 856258119.89,
+        "balance": 5706570155.28,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF OFFICE / IT EQUIPMENTS",
+        "budget": 5537444016.29,
+        "allocation": 157670223.28,
+        "total_allocation": 405967191.54,
+        "balance": 5131476824.75,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF PLANTS/GENERATORS",
+        "budget": 2554239219.79,
+        "allocation": 55718277.85,
+        "total_allocation": 192091885.6,
+        "balance": 2362147334.19,
+        "month": "APR"
+    },
+    {
+        "name": "OTHER MAINTENANCE SERVICES",
+        "budget": 4908009499.25,
+        "allocation": 579251135.64,
+        "total_allocation": 992172900.8,
+        "balance": 3915836598.45,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF AIRCRAFTS",
+        "budget": 5397192291.0,
+        "allocation": 257646371.85,
+        "total_allocation": 362436302.1,
+        "balance": 5034755988.9,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF SEA BOATS",
+        "budget": 3437510383.26,
+        "allocation": 193007934.48,
+        "total_allocation": 376403307.41,
+        "balance": 3061107075.85,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF RAILWAY EQUIPMENTS",
+        "budget": 1200000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1200000.0,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF ROADS AND BRIDGES",
+        "budget": 14529271083.27,
+        "allocation": 320892911.12,
+        "total_allocation": 323177591.14,
+        "balance": 14206093492.13,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF COMMUNICATION EQUIPMENT",
+        "budget": 8340595.04,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 8340595.04,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF MARKET / PUBLIC PLACES",
+        "budget": 1138088.61,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1138088.61,
+        "month": "APR"
+    },
+    {
+        "name": "MAINTENANCE OF STREET LIGHTS",
+        "budget": 15541546.51,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 15541546.51,
+        "month": "APR"
+    },
+    {
+        "name": "LOCAL TRAINING",
+        "budget": 44239612665.1,
+        "allocation": 544266192.22,
+        "total_allocation": 1569472789.36,
+        "balance": 42670139875.74,
+        "month": "APR"
+    },
+    {
+        "name": "INTERNATIONAL TRAINING",
+        "budget": 3461304695.84,
+        "allocation": 129109196.53,
+        "total_allocation": 475342100.85,
+        "balance": 2985962594.99,
+        "month": "APR"
+    },
+    {
+        "name": "SECURITY SERVICES",
+        "budget": 9085462094.88,
+        "allocation": 358832581.25,
+        "total_allocation": 943514095.88,
+        "balance": 8141947999.0,
+        "month": "APR"
+    },
+    {
+        "name": "OFFICE RENT",
+        "budget": 19198216.16,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 19198216.16,
+        "month": "APR"
+    },
+    {
+        "name": "RESIDENTIAL RENT",
+        "budget": 4173145578.29,
+        "allocation": 14885683.22,
+        "total_allocation": 50358735.99,
+        "balance": 4122786842.3,
+        "month": "APR"
+    },
+    {
+        "name": "SECURITY VOTE",
+        "budget": 9154938439.65,
+        "allocation": 50132151.67,
+        "total_allocation": 148819559.54,
+        "balance": 9006118880.11,
+        "month": "APR"
+    },
+    {
+        "name": "CLEANING AND FUMIGATION SERVICES",
+        "budget": 17885375971.21,
+        "allocation": 1382133515.14,
+        "total_allocation": 3363726540.42,
+        "balance": 14521649430.79,
+        "month": "APR"
+    },
+    {
+        "name": "LAND USE CHARGES",
+        "budget": 2625211479.76,
+        "allocation": 68949835.87,
+        "total_allocation": 269597015.0,
+        "balance": 2355614464.76,
+        "month": "APR"
+    },
+    {
+        "name": "FINANCIAL CONSULTING",
+        "budget": 1850790073.01,
+        "allocation": 21864649.77,
+        "total_allocation": 55954190.04,
+        "balance": 1794835882.97,
+        "month": "APR"
+    },
+    {
+        "name": "INFORMATION TECHNOLOGY CONSULTING",
+        "budget": 1607214890.2,
+        "allocation": 16475937.26,
+        "total_allocation": 36901040.58,
+        "balance": 1570313849.62,
+        "month": "APR"
+    },
+    {
+        "name": "LEGAL SERVICES",
+        "budget": 3667899505.17,
+        "allocation": 72484042.75,
+        "total_allocation": 300985132.73,
+        "balance": 3366914372.44,
+        "month": "APR"
+    },
+    {
+        "name": "ENGINEERING SERVICES",
+        "budget": 113233123.02,
+        "allocation": 3129476.18,
+        "total_allocation": 6777894.43,
+        "balance": 106455228.59,
+        "month": "APR"
+    },
+    {
+        "name": "ARCHITECTURAL SERVICES",
+        "budget": 70808671.23,
+        "allocation": 650071.89,
+        "total_allocation": 2052845.05,
+        "balance": 68755826.18,
+        "month": "APR"
+    },
+    {
+        "name": "SURVEYING SERVICES",
+        "budget": 65015770.41,
+        "allocation": 700820.28,
+        "total_allocation": 1892506.67,
+        "balance": 63123263.74,
+        "month": "APR"
+    },
+    {
+        "name": "AUDITING OF FEDERATION ACCOUNT",
+        "budget": 18492748.18,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 18492748.18,
+        "month": "APR"
+    },
+    {
+        "name": "MEDICAL CONSULTING",
+        "budget": 193075047.58,
+        "allocation": 2802481.37,
+        "total_allocation": 6298308.38,
+        "balance": 186776739.2,
+        "month": "APR"
+    },
+    {
+        "name": "MOTOR VEHICLE FUEL COST",
+        "budget": 6190134095.34,
+        "allocation": 339742961.23,
+        "total_allocation": 954866778.32,
+        "balance": 5235267317.02,
+        "month": "APR"
+    },
+    {
+        "name": "OTHER TRANSPORT EQUIPMENT FUEL COST",
+        "budget": 1482634703.14,
+        "allocation": 127642155.37,
+        "total_allocation": 284332647.85,
+        "balance": 1198302055.29,
+        "month": "APR"
+    },
+    {
+        "name": "PLANT / GENERATOR FUEL COST",
+        "budget": 6684866496.4,
+        "allocation": 265846271.7,
+        "total_allocation": 919724373.99,
+        "balance": 5765142122.41,
+        "month": "APR"
+    },
+    {
+        "name": "AIRCRAFT FUEL COST",
+        "budget": 4326340058.93,
+        "allocation": 143609253.66,
+        "total_allocation": 451600681.73,
+        "balance": 3874739377.2,
+        "month": "APR"
+    },
+    {
+        "name": "SEA BOAT FUEL COST",
+        "budget": 2760151221.0,
+        "allocation": 822314572.54,
+        "total_allocation": 1054779791.63,
+        "balance": 1705371429.37,
+        "month": "APR"
+    },
+    {
+        "name": "COOKING GAS/FUEL COST",
+        "budget": 228960750.93,
+        "allocation": 5060475.31,
+        "total_allocation": 19365228.7,
+        "balance": 209595522.23,
+        "month": "APR"
+    },
+    {
+        "name": "BANK CHARGES (OTHER THAN INTEREST)",
+        "budget": 909651835.64,
+        "allocation": 1665284.4,
+        "total_allocation": 3022737.49,
+        "balance": 906629098.15,
+        "month": "APR"
+    },
+    {
+        "name": "INSURANCE PREMIUM",
+        "budget": 5718837352.93,
+        "allocation": 344814098.95,
+        "total_allocation": 375489081.78,
+        "balance": 5343348271.15,
+        "month": "APR"
+    },
+    {
+        "name": "LOSS ON FOREIGN EXCHANGE",
+        "budget": 75938543.0,
+        "allocation": 107298.76,
+        "total_allocation": 305806.0,
+        "balance": 75632737.0,
+        "month": "APR"
+    },
+    {
+        "name": "OTHER CRF BANK CHARGES",
+        "budget": 63297571.77,
+        "allocation": 5452481.81,
+        "total_allocation": 6388571.93,
+        "balance": 56908999.84,
+        "month": "APR"
+    },
+    {
+        "name": "REFRESHMENT & MEALS",
+        "budget": 2528913900.87,
+        "allocation": 70090075.27,
+        "total_allocation": 310742412.19,
+        "balance": 2218171488.68,
+        "month": "APR"
+    },
+    {
+        "name": "HONORARIUM & SITTING ALLOWANCE",
+        "budget": 3181916689.42,
+        "allocation": 159163128.57,
+        "total_allocation": 660260931.02,
+        "balance": 2521655758.4,
+        "month": "APR"
+    },
+    {
+        "name": "PUBLICITY & ADVERTISEMENTS",
+        "budget": 3941858912.41,
+        "allocation": 94454945.97,
+        "total_allocation": 324737990.89,
+        "balance": 3617120921.52,
+        "month": "APR"
+    },
+    {
+        "name": "MEDICAL EXPENSES",
+        "budget": 4806418797.92,
+        "allocation": 264497183.11,
+        "total_allocation": 716397567.71,
+        "balance": 4090021230.21,
+        "month": "APR"
+    },
+    {
+        "name": "FOREIGN SERVICE SCHOOL FEES PAYMENT",
+        "budget": 3768034078.92,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 3768034078.92,
+        "month": "APR"
+    },
+    {
+        "name": "POSTAGES & COURIER SERVICES",
+        "budget": 621406287.1,
+        "allocation": 7031580.7,
+        "total_allocation": 38515885.78,
+        "balance": 582890401.32,
+        "month": "APR"
+    },
+    {
+        "name": "WELFARE PACKAGES",
+        "budget": 7568978845.22,
+        "allocation": 430264417.77,
+        "total_allocation": 796139876.93,
+        "balance": 6772838968.29,
+        "month": "APR"
+    },
+    {
+        "name": "SUBSCRIPTION TO PROFESSIONAL BODIES",
+        "budget": 648603112.24,
+        "allocation": 1600206.22,
+        "total_allocation": 7287892.28,
+        "balance": 641315219.96,
+        "month": "APR"
+    },
+    {
+        "name": "SPORTING ACTIVITIES",
+        "budget": 8469012081.42,
+        "allocation": 98468681.8,
+        "total_allocation": 656872665.29,
+        "balance": 7812139416.13,
+        "month": "APR"
+    },
+    {
+        "name": "DIRECT TEACHING & LABORATORY COST",
+        "budget": 1654472246.83,
+        "allocation": 49012808.38,
+        "total_allocation": 166447674.51,
+        "balance": 1488024572.32,
+        "month": "APR"
+    },
+    {
+        "name": "RECRUITMENT AND APPOINTMENT (SERVICE WIDE)",
+        "budget": 173715082.57,
+        "allocation": 125000.0,
+        "total_allocation": 8990200.0,
+        "balance": 164724882.57,
+        "month": "APR"
+    },
+    {
+        "name": "DISCIPLINE AND APPEALS (SERVICE WIDE)",
+        "budget": 48875591.0,
+        "allocation": 0.0,
+        "total_allocation": 590000.0,
+        "balance": 48285591.0,
+        "month": "APR"
+    },
+    {
+        "name": "PROMOTION (SERVICE WIDE)",
+        "budget": 479319159.59,
+        "allocation": 524000.0,
+        "total_allocation": 20064500.0,
+        "balance": 459254659.59,
+        "month": "APR"
+    },
+    {
+        "name": "ANNUAL BUDGET EXPENSES AND ADMINISTRATION",
+        "budget": 1326598097.84,
+        "allocation": 23117382.35,
+        "total_allocation": 87345523.64,
+        "balance": 1239252574.2,
+        "month": "APR"
+    },
+    {
+        "name": "CRÈCHE",
+        "budget": 6660000.0,
+        "allocation": 0.0,
+        "total_allocation": 630400.0,
+        "balance": 6029600.0,
+        "month": "APR"
+    },
+    {
+        "name": "SERVICOM",
+        "budget": 46496244.09,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 46496244.09,
+        "month": "APR"
+    },
+    {
+        "name": "ANTI-CORRUPTION",
+        "budget": 42604502.3,
+        "allocation": 0.0,
+        "total_allocation": 2605000.0,
+        "balance": 39999502.3,
+        "month": "APR"
+    },
+    {
+        "name": "GENDER",
+        "budget": 2209522.21,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 2209522.21,
+        "month": "APR"
+    },
+    {
+        "name": "MUSLIM/CHRISTIAN PILGRIMAGES",
+        "budget": 500000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 500000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "OTHER EXPENSES (RECONCILIATION ITEMS ONLY)",
+        "budget": 2500000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 2500000.0,
+        "month": "APR"
+    },
+    {
+        "name": "ANNUAL CONFERENCE OF AUDITORS - GENERAL",
+        "budget": 29545798.15,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 29545798.15,
+        "month": "APR"
+    },
+    {
+        "name": "MONITORING ACTIVITIES & FOLLOW UP",
+        "budget": 1213143106.76,
+        "allocation": 20000.0,
+        "total_allocation": 10126453.33,
+        "balance": 1203016653.43,
+        "month": "APR"
+    },
+    {
+        "name": "PROMOTION, RECRUITMENT & APPOINTMENT",
+        "budget": 243135503.81,
+        "allocation": 700000.0,
+        "total_allocation": 3469551.16,
+        "balance": 239665952.65,
+        "month": "APR"
+    },
+    {
+        "name": "CURRICULUM DEVELOPMENT",
+        "budget": 28900000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 28900000.0,
+        "month": "APR"
+    },
+    {
+        "name": "CORPS MEMBERS KITTING, TRANSPORT AND FEEDING ALLOWANCE",
+        "budget": 12216439371.99,
+        "allocation": 2036569032.45,
+        "total_allocation": 2870090906.61,
+        "balance": 9346348465.38,
+        "month": "APR"
+    },
+    {
+        "name": "INSPECTORATE",
+        "budget": 620232226.67,
+        "allocation": 0.0,
+        "total_allocation": 7516400.0,
+        "balance": 612715826.67,
+        "month": "APR"
+    },
+    {
+        "name": "IPPIS",
+        "budget": 1000200565.6,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1000200565.6,
+        "month": "APR"
+    },
+    {
+        "name": "PAYMENT FOR OUTSOURCED SERVICES",
+        "budget": 3017208286.17,
+        "allocation": 0.0,
+        "total_allocation": 962159600.0,
+        "balance": 2055048686.17,
+        "month": "APR"
+    },
+    {
+        "name": "MARGIN FOR INCREASE IN COSTS",
+        "budget": 3000000000.0,
+        "allocation": 6385642.0,
+        "total_allocation": 1922927147.6,
+        "balance": 1077072852.4,
+        "month": "APR"
+    },
+    {
+        "name": "PRESIDENTIAL AMNESTY PROGRAMME: REINTEGRATION OF TRANSFORMED EX-MILLITANTS",
+        "budget": 65000000000.0,
+        "allocation": 663632525.52,
+        "total_allocation": 6302869316.79,
+        "balance": 58697130683.21,
+        "month": "APR"
+    },
+    {
+        "name": "CONTINGENCY",
+        "budget": 15004005636.3,
+        "allocation": 1237702224.4,
+        "total_allocation": 9400366928.34,
+        "balance": 5603638707.96,
+        "month": "APR"
+    },
+    {
+        "name": "MILITARY OPERATION: LAFIYA DOLE & OTHER OPERATIONS OF THE ARMED FORCES",
+        "budget": 75000000000.0,
+        "allocation": 0.0,
+        "total_allocation": 27999065188.0,
+        "balance": 47000934812.0,
+        "month": "APR"
+    },
+    {
+        "name": "SERVICE WIDE TRAINING ON GIFMIS (BUDGET PREPARATION, PBB, EXECUTION & REPORTING)",
+        "budget": 2015600421.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 2015600421.0,
+        "month": "APR"
+    },
+    {
+        "name": "TSA OPERATIONS",
+        "budget": 2000000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 2000000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "POLITICAL OFFICERS & STANDING COMMITTEE",
+        "budget": 1734094718.0,
+        "allocation": 9373300.0,
+        "total_allocation": 88864250.34,
+        "balance": 1645230467.66,
+        "month": "APR"
+    },
+    {
+        "name": "SETTLEMENT OF MDAs ELECTRICITY BILLS",
+        "budget": 4000000000.0,
+        "allocation": 0.0,
+        "total_allocation": 66779117.0,
+        "balance": 3933220883.0,
+        "month": "APR"
+    },
+    {
+        "name": "SINKING FUND",
+        "budget": 272900000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 272900000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "MOTOR VEHICLE ADVANCES",
+        "budget": 2095222.69,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 2095222.69,
+        "month": "APR"
+    },
+    {
+        "name": "MOTOR CYCLE ADVANCES",
+        "budget": 13350000.0,
+        "allocation": 0.0,
+        "total_allocation": 2265265.31,
+        "balance": 11084734.69,
+        "month": "APR"
+    },
+    {
+        "name": "BICYCLE ADVANCES",
+        "budget": 523805.67,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 523805.67,
+        "month": "APR"
+    },
+    {
+        "name": "REFURBISHING ADVANCES",
+        "budget": 660000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 660000.0,
+        "month": "APR"
+    },
+    {
+        "name": "SPETACLE ADVANCES",
+        "budget": 6584572.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 6584572.0,
+        "month": "APR"
+    },
+    {
+        "name": "GRANT TO STATE GOVERNMENTS - CURRENT",
+        "budget": 45154027.82,
+        "allocation": 125671.3,
+        "total_allocation": 3888506.95,
+        "balance": 41265520.87,
+        "month": "APR"
+    },
+    {
+        "name": "GRANT TO LOCAL GOVERNMENTS -CURRENT",
+        "budget": 43482044.97,
+        "allocation": 116914.33,
+        "total_allocation": 175371.49,
+        "balance": 43306673.48,
+        "month": "APR"
+    },
+    {
+        "name": "GRANT TO LOCAL GOVERNMENTS - CAPITAL",
+        "budget": 985182.9,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 985182.9,
+        "month": "APR"
+    },
+    {
+        "name": "GRANTS TO GOVERNMENT OWNED COMPANIES - CURRENT",
+        "budget": 109111282.41,
+        "allocation": 4100000.0,
+        "total_allocation": 11152423.61,
+        "balance": 97958858.8,
+        "month": "APR"
+    },
+    {
+        "name": "GRANT TO PRIVATE COMPANIES - CURRENT",
+        "budget": 17248627.0,
+        "allocation": 100000.0,
+        "total_allocation": 1644600.0,
+        "balance": 15604027.0,
+        "month": "APR"
+    },
+    {
+        "name": "GRANTS TO COMMUNITIES / NON GOVERNMENTAL ORGANISATIONS (NGO)",
+        "budget": 637336.03,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 637336.03,
+        "month": "APR"
+    },
+    {
+        "name": "GRANT TO FOREIGN INTERNATIONAL ORGANIZATIONS",
+        "budget": 169915160.75,
+        "allocation": 447989.61,
+        "total_allocation": 531170.46,
+        "balance": 169383990.29,
+        "month": "APR"
+    },
+    {
+        "name": "CONTRIBUTIONS TO INTERNATIONAL ORGANISATIONS",
+        "budget": 20018000000.0,
+        "allocation": 261217520.21,
+        "total_allocation": 827127946.19,
+        "balance": 19190872053.81,
+        "month": "APR"
+    },
+    {
+        "name": "SUBSIDY TO GOVERNMENT OWNED COMPANIES",
+        "budget": 49731930.49,
+        "allocation": 4120000.0,
+        "total_allocation": 12360000.0,
+        "balance": 37371930.49,
+        "month": "APR"
+    },
+    {
+        "name": "MEAL SUBSIDY TO GOVERNMENT SCHOOLS",
+        "budget": 165293279363.23,
+        "allocation": 1238024270.92,
+        "total_allocation": 4491110410.09,
+        "balance": 160802168953.14,
+        "month": "APR"
+    },
+    {
+        "name": "BANK CHARGES (OTHER THAN INTEREST)",
+        "budget": 71133367.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 71133367.0,
+        "month": "APR"
+    },
+    {
+        "name": "INTEREST - INTERNAL PUBLIC DEBT",
+        "budget": 1732718670000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1732718670000.0,
+        "month": "APR"
+    },
+    {
+        "name": "INTEREST - EXTERNAL PUBLIC DEBT",
+        "budget": 719880260000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 719880260000.0,
+        "month": "APR"
+    },
+    {
+        "name": "OTHER FUNDS",
+        "budget": 0.0,
+        "allocation": 0.0,
+        "total_allocation": -20000.0,
+        "balance": 20000.0,
+        "month": "APR"
+    },
+    {
+        "name": "PAYMENT FROM CRF TO FUND MDA RECURRENT EXPENDITURE",
+        "budget": 0.0,
+        "allocation": 334572949464.25,
+        "total_allocation": 1433283752387.72,
+        "balance": -1433283752387.72,
+        "month": "APR"
+    },
+    {
+        "name": "PAYMENT TO OTHER AGENCY TO FUND RECURRENT EXPENDITURE",
+        "budget": 0.0,
+        "allocation": 0.0,
+        "total_allocation": 503988052.41,
+        "balance": -503988052.41,
+        "month": "APR"
+    },
+    {
+        "name": "CRF REVENUE REMITTANCE BY PUBLIC SECTOR ENTITIES (PSES)",
+        "budget": 0.0,
+        "allocation": 800492.78,
+        "total_allocation": 13301653.6,
+        "balance": -13301653.6,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE / ACQUISITION OF LAND",
+        "budget": 8229261550.85,
+        "allocation": 14285.71,
+        "total_allocation": 1838252.71,
+        "balance": 8227423298.14,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF OFFICE BUILDINGS",
+        "budget": 6166782923.16,
+        "allocation": 2425000.0,
+        "total_allocation": 2425000.0,
+        "balance": 6164357923.16,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF RESIDENTIAL BUILDINGS",
+        "budget": 8138400871.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 8138400871.0,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE MOTOR CYCLES",
+        "budget": 649861108.0,
+        "allocation": 0.0,
+        "total_allocation": 108000.0,
+        "balance": 649753108.0,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF MOTOR VEHICLES",
+        "budget": 70799010021.92,
+        "allocation": 41900943.03,
+        "total_allocation": 389086806.53,
+        "balance": 70409923215.39,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF VANS",
+        "budget": 3512595462.1,
+        "allocation": 106299.37,
+        "total_allocation": 106299.37,
+        "balance": 3512489162.73,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF TRUCKS",
+        "budget": 7468624137.0,
+        "allocation": 0.0,
+        "total_allocation": 758732386.14,
+        "balance": 6709891750.86,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF BUSES",
+        "budget": 3236275680.49,
+        "allocation": 16618950.0,
+        "total_allocation": 30165900.01,
+        "balance": 3206109780.48,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF SEA BOATS",
+        "budget": 2771758121.0,
+        "allocation": 0.0,
+        "total_allocation": 2504250.0,
+        "balance": 2769253871.0,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF SHIPS",
+        "budget": 102553654.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 102553654.0,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF TRAINS",
+        "budget": 22712443212.0,
+        "allocation": 52900190.53,
+        "total_allocation": 3740780053.01,
+        "balance": 18971663158.99,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF OFFICE FURNITURE AND FITTINGS",
+        "budget": 16481622923.9675,
+        "allocation": 144059040.78,
+        "total_allocation": 330061642.12,
+        "balance": 16151561281.8475,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF COMPUTERS",
+        "budget": 31642669580.14,
+        "allocation": 11532051.93,
+        "total_allocation": 37899010.15,
+        "balance": 31604770569.99,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF COMPUTER PRINTERS",
+        "budget": 1233990816.42,
+        "allocation": 3813000.0,
+        "total_allocation": 39857735.46,
+        "balance": 1194133080.96,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF PHOTOCOPYING MACHINES",
+        "budget": 5172150434.36,
+        "allocation": 390447.92,
+        "total_allocation": 13392410.87,
+        "balance": 5158758023.49,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF TYPEWRITERS",
+        "budget": 4450705.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 4450705.0,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF SHREDDING MACHINES",
+        "budget": 44028999.01,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 44028999.01,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF SCANNERS",
+        "budget": 750791087.5,
+        "allocation": 0.0,
+        "total_allocation": 2555343.99,
+        "balance": 748235743.51,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF POWER GENERATING SET",
+        "budget": 4197842177.52,
+        "allocation": 74491694.46,
+        "total_allocation": 89021294.46,
+        "balance": 4108820883.06,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OFCANTEEN / KITCHEN EQUIPMENT",
+        "budget": 452748875.99,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 452748875.99,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF RESIDENTIAL FURNITURE",
+        "budget": 1436134798.33,
+        "allocation": 0.0,
+        "total_allocation": 29516437.95,
+        "balance": 1406618360.38,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF HEALTH / MEDICAL EQUIPMENT",
+        "budget": 67994871124.38,
+        "allocation": 421688305.85,
+        "total_allocation": 1116907352.67,
+        "balance": 66877963771.71,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF FIRE FIGHTING EQUIPMENT",
+        "budget": 7644083314.82,
+        "allocation": 258430641.57,
+        "total_allocation": 636154151.57,
+        "balance": 7007929163.25,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF TEACHING / LEARNING AID EQUIPMENT",
+        "budget": 26443751037.45,
+        "allocation": 209687938.4,
+        "total_allocation": 299331827.23,
+        "balance": 26144419210.22,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF LIBRARY BOOKS & EQUIPMENT",
+        "budget": 4556461290.085,
+        "allocation": 22105000.0,
+        "total_allocation": 106664257.51,
+        "balance": 4449797032.575,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF SPORTING / GAMING EQUIPMENT",
+        "budget": 5877566803.135,
+        "allocation": 0.0,
+        "total_allocation": 164148603.58,
+        "balance": 5713418199.555,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF AGRICULTURAL EQUIPMENT",
+        "budget": 10450767444.3144,
+        "allocation": 99197776.52,
+        "total_allocation": 135938755.78,
+        "balance": 10314828688.5344,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF SECURITY EQUIPMENT",
+        "budget": 128851993067.768,
+        "allocation": 911541530.82,
+        "total_allocation": 2940895029.53,
+        "balance": 125911098038.238,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF INDUSTRIAL EQUIPMENT",
+        "budget": 36926117619.2,
+        "allocation": 289565065.97,
+        "total_allocation": 449102066.69,
+        "balance": 36477015552.51,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF RECREATIONAL FACILITIES",
+        "budget": 729998485.8,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 729998485.8,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF AIR NAVIGATIONAL EQUIPMENT",
+        "budget": 16416124937.31,
+        "allocation": 0.0,
+        "total_allocation": 1178947348.36,
+        "balance": 15237177588.95,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF DEFENCE EQUIPMENT",
+        "budget": 222671907142.32,
+        "allocation": 0.0,
+        "total_allocation": 98903187.7,
+        "balance": 222573003954.62,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASES OF SURVEYING EQUIPMENT",
+        "budget": 4655910742.0,
+        "allocation": 176744186.05,
+        "total_allocation": 176744186.05,
+        "balance": 4479166555.95,
+        "month": "APR"
+    },
+    {
+        "name": "KITTING OF ARMED FORCES PERSONNEL",
+        "budget": 978832131.5,
+        "allocation": 0.0,
+        "total_allocation": 9336277.75,
+        "balance": 969495853.75,
+        "month": "APR"
+    },
+    {
+        "name": "BAAM SALATUTING AND CEREMONIALS",
+        "budget": 120690394.78,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 120690394.78,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF SHIP SPARE/MAINTENANCE",
+        "budget": 4000491853.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 4000491853.0,
+        "month": "APR"
+    },
+    {
+        "name": "PURCHASE OF HELLO SPARES/MAINTENANCE",
+        "budget": 102387196.23,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 102387196.23,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF OFFICE BUILDINGS",
+        "budget": 152334917190.19,
+        "allocation": 1662275989.29,
+        "total_allocation": 5219020674.76,
+        "balance": 147115896515.43,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF RESIDENTIAL BUILDINGS",
+        "budget": 23655757085.25,
+        "allocation": 85281531.52,
+        "total_allocation": 727932313.14,
+        "balance": 22927824772.11,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF ELECTRICITY",
+        "budget": 568445311461.9003,
+        "allocation": 2195880636.97,
+        "total_allocation": 8040333926.4,
+        "balance": 560404977535.5002,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF HOUSING",
+        "budget": 41840504021.7,
+        "allocation": 524159462.04,
+        "total_allocation": 1465914563.48,
+        "balance": 40374589458.22,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF WATER FACILITIES",
+        "budget": 262601787976.831,
+        "allocation": 2150133716.05,
+        "total_allocation": 2910028436.08,
+        "balance": 259691759540.751,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF HOSPITALS / HEALTH CENTRES",
+        "budget": 39785759773.1,
+        "allocation": 629718286.45,
+        "total_allocation": 1227773182.29,
+        "balance": 38557986590.81,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF PUBLIC SCHOOLS",
+        "budget": 58569957901.911,
+        "allocation": 434693324.01,
+        "total_allocation": 686620701.6,
+        "balance": 57883337200.311,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF POLICE STATIONS / BARRACKS",
+        "budget": 33677441352.1,
+        "allocation": 104037276.58,
+        "total_allocation": 1376857426.08,
+        "balance": 32300583926.02,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF PRISONS",
+        "budget": 12379997269.72,
+        "allocation": 2557231082.81,
+        "total_allocation": 2557231082.81,
+        "balance": 9822766186.91,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF FIRE FIGHTING STATIONS",
+        "budget": 742482693.0,
+        "allocation": 0.0,
+        "total_allocation": 149000000.0,
+        "balance": 593482693.0,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF LIBRARIES",
+        "budget": 9704931434.18,
+        "allocation": 0.0,
+        "total_allocation": 9484479.43,
+        "balance": 9695446954.75,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF SPORTING FACILITIES",
+        "budget": 7689542171.0,
+        "allocation": 0.0,
+        "total_allocation": 1029695990.28,
+        "balance": 6659846180.72,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF AGRICULTURAL FACILITIES",
+        "budget": 383582255110.6768,
+        "allocation": 1285854657.96,
+        "total_allocation": 1731265549.87,
+        "balance": 381850989560.8068,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF ROADS",
+        "budget": 630185116529.6302,
+        "allocation": 34062260703.69,
+        "total_allocation": 66346587389.39,
+        "balance": 563838529140.2402,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF RAIL-WAYS",
+        "budget": 280180629638.0,
+        "allocation": 16137196597.78,
+        "total_allocation": 16736421193.21,
+        "balance": 263444208444.79,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF WATER-WAYS",
+        "budget": 86705886715.45,
+        "allocation": 22311019.96,
+        "total_allocation": 1080758017.48,
+        "balance": 85625128697.97,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF AIR-PORT / AERODROMES",
+        "budget": 53095842391.0,
+        "allocation": 13234943.13,
+        "total_allocation": 55825511.13,
+        "balance": 53040016879.87,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF INFRASTRUCTURE",
+        "budget": 468336648169.6375,
+        "allocation": 8784755351.71,
+        "total_allocation": 21971950111.7,
+        "balance": 446364698057.9375,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION / PROVISION OF RECREATIONAL FACILITIES",
+        "budget": 4877239603.45,
+        "allocation": 14394833.51,
+        "total_allocation": 15316333.51,
+        "balance": 4861923269.94,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION/PROVISION OF MILITARY BARACKS",
+        "budget": 22864789611.96,
+        "allocation": 0.0,
+        "total_allocation": 17998153.02,
+        "balance": 22846791458.94,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION/PROVISION OF DEFENCE EQUIPMENTS",
+        "budget": 53863235653.13,
+        "allocation": 1000746127.0,
+        "total_allocation": 1003338127.0,
+        "balance": 52859897526.13,
+        "month": "APR"
+    },
+    {
+        "name": "CONSTRUCTION OF BOUNDARIES PILLARS/RIGHT OF WAYS",
+        "budget": 3462315879.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 3462315879.0,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS OF RESIDENTIAL BUILDING",
+        "budget": 26747025913.795,
+        "allocation": 26068769.47,
+        "total_allocation": 319297887.61,
+        "balance": 26427728026.185,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - ELECTRICITY",
+        "budget": 12031556465.33,
+        "allocation": 0.0,
+        "total_allocation": -22605995.0,
+        "balance": 12054162460.33,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - HOUSING",
+        "budget": 2280827430.325,
+        "allocation": 1429856.16,
+        "total_allocation": 1429856.16,
+        "balance": 2279397574.165,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - WATER FACILITIES",
+        "budget": 8802711325.22,
+        "allocation": 7788716.9,
+        "total_allocation": 8304716.9,
+        "balance": 8794406608.32,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - HOSPITAL / HEALTH CENTRES",
+        "budget": 10503478648.62,
+        "allocation": 74905353.19,
+        "total_allocation": 236508497.77,
+        "balance": 10266970150.85,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - PUBLIC SCHOOLS",
+        "budget": 32992974394.23,
+        "allocation": 255614485.85,
+        "total_allocation": 431152321.83,
+        "balance": 32561822072.4,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - POLICE STATIONS / BARRACKS",
+        "budget": 1509139922.35,
+        "allocation": 0.0,
+        "total_allocation": 30000000.0,
+        "balance": 1479139922.35,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - PRISONS",
+        "budget": 9017553074.0,
+        "allocation": 112627373.34,
+        "total_allocation": 112627373.34,
+        "balance": 8904925700.66,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - FIRE FIGHTING STATIONS",
+        "budget": 1080046001.44,
+        "allocation": 20565935.55,
+        "total_allocation": 58476273.15,
+        "balance": 1021569728.29,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - LIBRARIES",
+        "budget": 666361998.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 666361998.0,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - SPORTING FACILITIES",
+        "budget": 3109436341.8,
+        "allocation": 0.0,
+        "total_allocation": 113177081.79,
+        "balance": 2996259260.01,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - AGRICICULTURAL FACILITIES",
+        "budget": 15098787255.8192,
+        "allocation": 339534999.86,
+        "total_allocation": 504702372.46,
+        "balance": 14594084883.3592,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - ROADS",
+        "budget": 309758766276.869,
+        "allocation": 31407298.4,
+        "total_allocation": 40228726.98,
+        "balance": 309718537549.889,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - RAILWAYS",
+        "budget": 8558023984.0,
+        "allocation": 0.0,
+        "total_allocation": 1069529739.88,
+        "balance": 7488494244.12,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - WATER-WAY",
+        "budget": 284073982.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 284073982.0,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - AIR-PORT / AERODROMES",
+        "budget": 56600046558.0,
+        "allocation": 0.0,
+        "total_allocation": 484977614.64,
+        "balance": 56115068943.36,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - DEFENCE EQUIPMENTS",
+        "budget": 6738579850.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 6738579850.0,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - RECREATIONAL FACILITIES",
+        "budget": 1154729622.89,
+        "allocation": 0.0,
+        "total_allocation": 54207176.72,
+        "balance": 1100522446.17,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - AIR NAVIGATIONAL EQUIPMENT",
+        "budget": 10388418457.0,
+        "allocation": 0.0,
+        "total_allocation": 230000000.0,
+        "balance": 10158418457.0,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS - MILITARY/DEFENCE BARRACKS",
+        "budget": 93950380176.0,
+        "allocation": 3768000.0,
+        "total_allocation": 165920880.54,
+        "balance": 93784459295.46,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION / REPAIRS OF OFFICE BUILDINGS",
+        "budget": 120195772996.2788,
+        "allocation": 229342268.51,
+        "total_allocation": 661287450.41,
+        "balance": 119534485545.8688,
+        "month": "APR"
+    },
+    {
+        "name": "REHABILITATION/REPAIRS OF BOUNDARIES",
+        "budget": 11276547580.0,
+        "allocation": 0.0,
+        "total_allocation": 16593545.53,
+        "balance": 11259954034.47,
+        "month": "APR"
+    },
+    {
+        "name": "TREE PLANTING",
+        "budget": 3098267382.85,
+        "allocation": 0.0,
+        "total_allocation": 26342394.45,
+        "balance": 3071924988.4,
+        "month": "APR"
+    },
+    {
+        "name": "EROSION & FLOOD CONTROL",
+        "budget": 36267616291.86,
+        "allocation": 517006476.15,
+        "total_allocation": 2379015706.26,
+        "balance": 33888600585.6,
+        "month": "APR"
+    },
+    {
+        "name": "WILDLIFE CONSERVATION",
+        "budget": 1033553833.255,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1033553833.255,
+        "month": "APR"
+    },
+    {
+        "name": "INDUSTRIAL POLLUTION PREVENTION & CONTROL",
+        "budget": 5828711327.62,
+        "allocation": 978000.0,
+        "total_allocation": -68166282.77,
+        "balance": 5896877610.39,
+        "month": "APR"
+    },
+    {
+        "name": "WATER POLLUTION PREVENTION & CONTROL",
+        "budget": 8332029390.35,
+        "allocation": 51464315.56,
+        "total_allocation": 51464315.56,
+        "balance": 8280565074.79,
+        "month": "APR"
+    },
+    {
+        "name": "RESEARCH AND DEVELOPMENT",
+        "budget": 917828161813.6218,
+        "allocation": 1932529156.87,
+        "total_allocation": 10124487076.41,
+        "balance": 907703674737.2118,
+        "month": "APR"
+    },
+    {
+        "name": "COMPUTER SOFTWARE ACQUISITION",
+        "budget": 91254794524.945,
+        "allocation": 207527430.09,
+        "total_allocation": 624266079.07,
+        "balance": 90630528445.875,
+        "month": "APR"
+    },
+    {
+        "name": "MONITORING AND EVALUATION",
+        "budget": 72845419658.8153,
+        "allocation": 397692424.0,
+        "total_allocation": 745535314.45,
+        "balance": 72099884344.3653,
+        "month": "APR"
+    },
+    {
+        "name": "ANNIVASARIES/CELEBRATIONS",
+        "budget": 7799347036.82,
+        "allocation": 0.0,
+        "total_allocation": 33396054.23,
+        "balance": 7765950982.59,
+        "month": "APR"
+    },
+    {
+        "name": "GAS ROYALTY AND RECONCILIATION",
+        "budget": 440157458.38,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 440157458.38,
+        "month": "APR"
+    },
+    {
+        "name": "FACILITIES AND TECHNICAL SERVICES",
+        "budget": 123741971.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 123741971.0,
+        "month": "APR"
+    },
+    {
+        "name": "MARGIN FOR INCREASES IN COST",
+        "budget": 103116800.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 103116800.0,
+        "month": "APR"
+    },
+    {
+        "name": "PHASE 1; PROGRAMME AND PROJECT PORTFOLIO MANGEMENT FOR PILOT MDA",
+        "budget": 104615813.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 104615813.0,
+        "month": "APR"
+    },
+    {
+        "name": "PRESIDENTIAL AMNESTY PROGRAMME",
+        "budget": 199300000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 199300000.0,
+        "month": "APR"
+    },
+    {
+        "name": "REINTREGRATION OF TRANSFORMED NIGER DELTA EX-MILITANTS",
+        "budget": 168101300.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 168101300.0,
+        "month": "APR"
+    },
+    {
+        "name": "OPERATION COST OF THE PROGRAMME",
+        "budget": 214565390348.4682,
+        "allocation": 11039211184.4,
+        "total_allocation": 11457619639.94,
+        "balance": 203107770708.5282,
+        "month": "APR"
+    },
+    {
+        "name": "CAPITAL EXIGENCIES/ADJUSTMENT TO CAPITAL COST",
+        "budget": 7454639532.0,
+        "allocation": 23903165.57,
+        "total_allocation": 630609963.76,
+        "balance": 6824029568.24,
+        "month": "APR"
+    },
+    {
+        "name": "VIABILITY GAP FUND - PPP",
+        "budget": 50000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 50000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "NATIONAL JOB CREATION SCHEME",
+        "budget": 563079729.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 563079729.0,
+        "month": "APR"
+    },
+    {
+        "name": "QUICK WINS - COMPLETION OF 2008 &2009 PROJECTS",
+        "budget": 50000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 50000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "SUSTAINABLE DEVELOPMENT GOALS MONITORING AND EVALUATION",
+        "budget": 3801928684.0,
+        "allocation": 0.0,
+        "total_allocation": 21757020.0,
+        "balance": 3780171664.0,
+        "month": "APR"
+    },
+    {
+        "name": "CONSULTANCY, SURVEY AND SHORT TERM STUDIES",
+        "budget": 3887439701.0,
+        "allocation": 0.0,
+        "total_allocation": 8126890.75,
+        "balance": 3879312810.25,
+        "month": "APR"
+    },
+    {
+        "name": "COMMUNICATION AND ADVOCACY (MDG) REPORTING 2011 MDG",
+        "budget": 54963283.55,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 54963283.55,
+        "month": "APR"
+    },
+    {
+        "name": "SPECIAL INTERVENTION",
+        "budget": 24506472658.0,
+        "allocation": 255563134.9,
+        "total_allocation": 420295653.18,
+        "balance": 24086177004.82,
+        "month": "APR"
+    },
+    {
+        "name": "SINKING FUND FOR INFRASTRUCTURAL DEVELOPMENT",
+        "budget": 35297361097.73,
+        "allocation": 3365000.0,
+        "total_allocation": 45032130.99,
+        "balance": 35252328966.74,
+        "month": "APR"
+    },
+    {
+        "name": "REFUND TO STATES FOR FEDERAL GOVERNMENT ROAD PROJECTS",
+        "budget": 591837452.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 591837452.0,
+        "month": "APR"
+    },
+    {
+        "name": "SPECIAL INITIATIVE FOR WOMEN PARTICIPATION IN AGRICULTURE, WATER, SPORT, COMMUNICATION TECHNOLOGY",
+        "budget": 5000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 5000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "GIFMIS CAPITAL",
+        "budget": 5000072849.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 5000072849.0,
+        "month": "APR"
+    },
+    {
+        "name": "OUTSTANDING LIABILITIES",
+        "budget": 82842526.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 82842526.0,
+        "month": "APR"
+    },
+    {
+        "name": "SPORTS DEVELOPMENT",
+        "budget": 44628734.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 44628734.0,
+        "month": "APR"
+    },
+    {
+        "name": "SDG SPECIAL PROJECTS",
+        "budget": 12681409433.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 12681409433.0,
+        "month": "APR"
+    },
+    {
+        "name": "SPECIAL INTERVENTION SDG's 1",
+        "budget": 7970000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 7970000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "SPECIAL INTERVENTION SDG's 2",
+        "budget": 5024212563.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 5024212563.0,
+        "month": "APR"
+    },
+    {
+        "name": "NATIONAL PLANNING COMMISSION (INFRASTRUCTURE MASTER PLAN)",
+        "budget": 1774117048.0,
+        "allocation": 701600.0,
+        "total_allocation": 17577168.0,
+        "balance": 1756539880.0,
+        "month": "APR"
+    },
+    {
+        "name": "ZONAL INTERVENTION PROJECTS",
+        "budget": 103197432842.0,
+        "allocation": 0.0,
+        "total_allocation": 329506312.33,
+        "balance": 102867926529.67,
+        "month": "APR"
+    },
+    {
+        "name": "FEDERAL INITIATIVE FOR NORTH EAST (PILOT COUNTERPART FUNDING CONTRIBUTION)",
+        "budget": 3472213357.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 3472213357.0,
+        "month": "APR"
+    },
+    {
+        "name": "COUNTERPART FUNDING INCLUDING GLOBAL FUND/HEALTH/ REFUND TO GAVI",
+        "budget": 5506165989.0,
+        "allocation": 0.0,
+        "total_allocation": 700000000.0,
+        "balance": 4806165989.0,
+        "month": "APR"
+    },
+    {
+        "name": "CONDITIONAL GRANTS SDGs",
+        "budget": 10016840453.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 10016840453.0,
+        "month": "APR"
+    },
+    {
+        "name": "PAYMENT OF LOCAL CONTRACTORS' DEBTS",
+        "budget": 15520923416.0,
+        "allocation": 1771544123.0,
+        "total_allocation": 1773044123.0,
+        "balance": 13747879293.0,
+        "month": "APR"
+    },
+    {
+        "name": "FUNDING OF GALAXY INFRASTRUCTURE",
+        "budget": 4000000000.0,
+        "allocation": 0.0,
+        "total_allocation": 1000000000.0,
+        "balance": 3000000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "RECAPITALISATION OF DEVELOPMENT FINANCE INSTITUTION (DFI)",
+        "budget": 15000000000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 15000000000.0,
+        "month": "APR"
+    },
+    {
+        "name": "SPECIAL INTERVENTION PROGRAMMES/PROJECTS",
+        "budget": 40129962755.0,
+        "allocation": 0.0,
+        "total_allocation": 2684217512.88,
+        "balance": 37445745242.12,
+        "month": "APR"
+    },
+    {
+        "name": "ESTABLISHMENT OF RESIDENT DEFENCE SECTION AT THE EMBASSY OF NIGERIA, ABU DHABI, UAE",
+        "budget": 1365738492.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1365738492.0,
+        "month": "APR"
+    },
+    {
+        "name": "GOVERNANCE/INSTITUTIONAL REFORM",
+        "budget": 68305171492.79,
+        "allocation": 211177632.75,
+        "total_allocation": 439154016.69,
+        "balance": 67866017476.1,
+        "month": "APR"
+    },
+    {
+        "name": "HEAD OF SERVICE (FEDERAL GOVERNMNT STAFF HOUSING LOANS BOARD)",
+        "budget": 2505319031.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 2505319031.0,
+        "month": "APR"
+    },
+    {
+        "name": "CONTINGENCY (CAPITAL)",
+        "budget": 11122678604.0,
+        "allocation": 3079957801.34,
+        "total_allocation": 4756064288.0,
+        "balance": 6366614316.0,
+        "month": "APR"
+    },
+    {
+        "name": "SUBSCRIPTION TO SHARES IN INTERNATIONAL ORGANISATIONS",
+        "budget": 43979253514.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 43979253514.0,
+        "month": "APR"
+    },
+    {
+        "name": "SOCIAL SAFETY NETS SDGs",
+        "budget": 25566455668.0,
+        "allocation": 0.0,
+        "total_allocation": 4302000.0,
+        "balance": 25562153668.0,
+        "month": "APR"
+    },
+    {
+        "name": "REFORM COMMUNICATIONS",
+        "budget": 782095657.0,
+        "allocation": 28469327.05,
+        "total_allocation": 32528677.05,
+        "balance": 749566979.95,
+        "month": "APR"
+    },
+    {
+        "name": "GRANT & DONOR FUNDED PROJECTS",
+        "budget": 36392600000.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 36392600000.0,
+        "month": "APR"
+    },
+    {
+        "name": "SUSTAINABLE DEVELOPMENT GOALS I",
+        "budget": 146571797.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 146571797.0,
+        "month": "APR"
+    },
+    {
+        "name": "SUSTAINABLE DEVELOPMENT GOALS II",
+        "budget": 1113239059.0,
+        "allocation": 0.0,
+        "total_allocation": 0.0,
+        "balance": 1113239059.0,
+        "month": "APR"
+    },
+    {
+        "name": "IMPAIRMENT CHARGES - WASTE DISPOSAL EQUIPMENT",
+        "budget": 0.0,
+        "allocation": 1.0,
+        "total_allocation": 1.0,
+        "balance": -1.0,
+        "month": "APR"
+    },
+    {
+        "name": "IMPAIRMENT CHARGES - CHAIRS",
+        "budget": 0.0,
+        "allocation": 10.0,
+        "total_allocation": 322423.3,
+        "balance": -322423.3,
+        "month": "APR"
+    },
+    {
+        "name": "IMPAIRMENT CHARGES - INVESTMENT PROPERTY - LAND & BUILDING - OFFICE",
+        "budget": 0.0,
+        "allocation": 0.0,
+        "total_allocation": 1199433636.3,
+        "balance": -1199433636.3,
+        "month": "APR"
+    }
+]
